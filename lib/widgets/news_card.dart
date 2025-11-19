@@ -39,7 +39,7 @@ class ItemCard extends StatelessWidget {
               MaterialPageRoute(builder: (context) => NewsFormPage()),
             );
           } 
-          else if (item.name == "Logout") {
+          if (item.name == "Logout") {
             // TODO: Replace the URL with your app's URL and don't forget to add a trailing slash (/)!
             // To connect Android emulator with Django on localhost, use URL http://10.0.2.2/
             // If you using chrome,  use URL http://localhost:8000
