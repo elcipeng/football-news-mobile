@@ -2,6 +2,18 @@
 
 A new Flutter project.
 
+# Nama Aplikasi Kamu
+
+[![Build Status](https://app.bitrise.io/app/36e9d7c4-202f-40db-b853-8cf1cea10d44/status.svg?token=jUoey0dH14nA3UzJJijWcg&branch=main)](https://app.bitrise.io/app/36e9d7c4-202f-40db-b853-8cf1cea10d44)
+
+## Download
+Download aplikasi versi terbaru: [Download APK](https://app.bitrise.io/app/36e9d7c4-202f-40db-b853-8cf1cea10d44/installable-artifacts/3296b81715247320/public-install-page/b9d0792c6495a6d18b9495910a6f043c)
+
+
+
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
