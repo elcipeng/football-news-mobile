@@ -34,7 +34,7 @@ class NewsEntry {
         category: json["category"],
         thumbnail: json["thumbnail"] ?? "",
         newsViews: json["news_views"] ?? "",
-        createdAt: DateTime.parse(json["created_at"]),
+        createdAt: DateTime.parse(json["created_at"]?? ""),
         isFeatured: json["is_featured"],
         userId: json["user_id"],     
     );
